@@ -1,0 +1,14 @@
+>> Linear Regression 
+https://colab.research.google.com/drive/1mfnFoiA2bgQP20lj-YU89AXIrSnrTyiL?usp=sharing
+
+>> Decision Tree
+https://colab.research.google.com/drive/1KHkBVLWio5gM-dCV4OvgW9FIMM26FHts?usp=sharing
+
+>> Random Forest
+https://colab.research.google.com/drive/1N41x4epBggtUFk-eKpmx6sC5EaaEOU7k?usp=sharing
+
+>> LSTM
+https://colab.research.google.com/drive/1gxLkBYeEH0EXHjSVbwDpGo71buQCB218?usp=sharing
+
+>> ARIMA
+https://colab.research.google.com/drive/1-vEFYrUxh_GCnbQCTqlCq7dSKKaB-HEv?usp=sharing
